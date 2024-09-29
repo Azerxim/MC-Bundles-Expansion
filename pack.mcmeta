@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 54,
+    "supported_formats": {
+      "min_inclusive": 54,
+      "max_inclusive": 60
+    },
+    "description": "Bundles Expansion MC 1.21.2"
+  }
+}

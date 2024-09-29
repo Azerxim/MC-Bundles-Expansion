@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "bundle_dye",
+  "key": {
+    "#": "#bundles-expansion:leather",
+    "-": "minecraft:string",
+    "d": "minecraft:gray_dye"
+  },
+  "pattern": [
+    " -",
+    "d#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:gray_bundle"
+  }
+}
